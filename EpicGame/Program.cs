@@ -1,7 +1,7 @@
 ﻿//string[] heros = {"Harry Potter", "Luke Skywalker", "Lara Croft", "Scooby-Doo"};
 //string[] villains = {"Voldemort", "Darth Vader","Joker", "Sauron", "Dracula" };
 
-string folderPath = "C:/Users/kevin/source/repos/Week8EpicGame/";
+string folderPath = "";
 string heroFile = "heroes.txt";
 string villainFile = "villains.txt";
 
